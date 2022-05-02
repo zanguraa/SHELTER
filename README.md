@@ -1,1 +1,1 @@
-# SHELTER https://github.com/zanguraa/SHELTER/pages/main/
+# [SHELTER] (https://zanguraa.github.io/SHELTER/pages/main/)
