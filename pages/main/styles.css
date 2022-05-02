@@ -601,15 +601,15 @@ border-radius: 100px;
   }
 
   #help-content {
-        /* position: static; */
-        width: 1200px;
-        height: 431px;
-        /* left: calc(50% - 1200px/2); */
-        /* top: 80px; */
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
+        position: absolute;
+    width: 1200px;
+    height: 431px;
+    left: calc(50% - 1280px/2);
+    top: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
   }
 
   #help-content h3 {
