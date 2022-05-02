@@ -224,7 +224,7 @@ height: 728px;
 left: calc(50% - 612px/2 + 209px);
 bottom: 0;
 
-background: url(/assets/images/start-screen-puppy.png);
+background: url(../../assets/images/start-screen-puppy.png);
 }
 
 .about-shelter {
