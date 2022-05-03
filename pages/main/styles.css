@@ -553,7 +553,7 @@ color: #545454;
     color: #292929;
   }
 
-  button-rest {
+  .button-rest {
     display: flex;
     flex-direction: column;
     align-items: center;
