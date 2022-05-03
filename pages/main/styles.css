@@ -115,22 +115,17 @@ nav a:hover {
   border-bottom: 3px solid #F1CDB3;;
 }
 
-
- 
-
-
 #about-decoration  {
+  color: #FAFAFA;
   text-decoration: none;
-  border-bottom: 3px solid #F1CDB3;;
+  border-bottom: 3px solid #F1CDB3;
 }
-
 
 .make-friend {
     position: absolute;
     width: 1200px;
     height: 728px;
-    top: 180px;
-    
+    top: 180px; 
 }
 
 .about-photo {
