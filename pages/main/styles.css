@@ -877,6 +877,7 @@ color: #545454;
     font-weight: 400;
     font-size: 20px;
     line-height: 115%;
+    cursor: pointer;
     /* identical to box height, or 23px */
     margin: 0;
     display: flex;
