@@ -478,6 +478,11 @@ footer .container {
 }
 
 #contact span {
+  display: block;
+  padding-left: 20px;
+}
+
+#contact span a {
   font-family: var(--primary-font);
   font-style: normal;
   font-weight: 400;
@@ -485,8 +490,7 @@ footer .container {
   line-height: 115%;
   letter-spacing: 0.06em;
   color: var(--color-primary);
-  display: block;
-  padding-left: 20px;
+  text-decoration: none;
 }
 
 .footer-icon-center {
