@@ -117,6 +117,10 @@ body {
     color: var(--color-dark-3xl);
   }
 
+#our-friends {
+    background-color: var(--color-light-l);
+  }
+
   #our-friends .container {
     display: flex;
     justify-content: center;
