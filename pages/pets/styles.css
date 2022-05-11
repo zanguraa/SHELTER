@@ -111,13 +111,14 @@ body {
       flex-wrap: nowrap;
       align-items: center;
   }
+  
   #active-link {
     border-bottom: 3px solid var(--color-primary);
     padding-bottom: 4px;
     color: var(--color-dark-3xl);
   }
 
-#our-friends {
+  #our-friends {
     background-color: var(--color-light-l);
   }
 
@@ -202,13 +203,18 @@ body {
     background-color: var(--color-primary);
   }
   
-  .btn-corner.disabled {
-    color: var(--color-dark-s);
+  .disabled {
     border: 2px solid var(--color-dark-s);
+    width: 52px;
+    height: 52px;
+    border-radius: 100%;
+    background-color: transparent;
+    color: var(--color-dark-3xl);
   }
   
   .btn-corner.disabled:hover {
     background-color: transparent;
+    text-transform: none;
   }
   
   .btn-corner:hover {
