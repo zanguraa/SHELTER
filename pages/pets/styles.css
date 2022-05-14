@@ -227,9 +227,10 @@ body {
     width: 52px;
     height: 52px;
     border: 2px solid var(--color-primary);
-    border-radius: 100%;background-color: transparent;
+    border-radius: 100%;
+    background-color: var(--color-primary);
     color: var(--color-dark-3xl);
-  }
+}
   
   .btn-corner:hover {
     cursor: pointer;
